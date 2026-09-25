@@ -1,2 +1,5 @@
 streamlit
 geopy
+ultralytics
+pillow
+pandas
